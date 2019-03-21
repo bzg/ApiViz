@@ -10,7 +10,7 @@ Visualize data coming from an API
 
 --------
 
-## DEVELOPPERS
+## DEVELOPERS
 
 Please check out our *[guidelines](./GUIDELINES_DEV.md)*
 
@@ -110,7 +110,7 @@ db.users.find()
 db.users.updateOne({_id: ObjectId('abcdef')}, {$set: {userAuthLevel: 'admin'}})
 ```
 
-Then, you can login with your admin user which can change settings of other users 
+Then, you can login with your admin user which can change settings of other users .
 
 
 
